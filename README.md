@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @Lumoon
-- 👀 I’m interested in Video Game Develop
-- 🌱 I’m currently learning C++,UE5
-- 💞️ I’m looking to collaborate on IndieGame
-- 📫 How to reach me ...
-
 ## GitHub Stats
 ![Xiaohanor's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaohanor&show_icons=true&theme=radical)
 
